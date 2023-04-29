@@ -1,2 +1,3 @@
-# EC
-Estructura de Computadors
+# EC: Estructura de Computadors
+## Continguts:
+* Laboratori
